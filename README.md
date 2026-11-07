@@ -360,3 +360,6 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 - **Other Github Repositories**. [[Link]](https://github.com/search?q=end+to+end+speech+recognition)
 
+### Speech Capture & Local AI Hardware
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone dual-microphone AI voice recorder with 5m far-field pickup, local AI transcription, multi-speaker separation (`Speaker ID`), stereo `.WAV` + Google Native OKF Markdown export, and zero cloud subscription ([GitHub MCP](https://github.com/onemira-space/onemira-mcp)).
